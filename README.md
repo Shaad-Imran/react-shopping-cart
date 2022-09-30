@@ -1,3 +1,9 @@
+# react-shopping-cart
+react-shopping-cart is a fully responsive shopping cart build using react
+
+[live demo](https://shaad-imran.github.io/react-shopping-cart/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
